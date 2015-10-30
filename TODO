@@ -1,0 +1,12 @@
+++++FIX THE RANDOM BALL GLITCH BOUNCE OFF SCREEN
+-make input more modular
+-make the player able to pick up the ball and throw it
+-set the background to cover the screen at any resolution
+-change the graphics to something more permanent in a top-down view
+    -make a player look method to go with the player look input
+-menus
+-move all input into seperate modules/objects
+-expand config file to add gamespecific data
+-fix image flicker
+
+-expand TODO list
